@@ -31,6 +31,7 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 
 | Body Part | Vanilla Coverage | DPO Coverage |
 | ------------- | :-------------: | :-------------: |
+| ------------- | ------------- | ------------- |
 | **Torso** | 0.036 | 0.06 |
 | *Sternum* | 0.015 | 0.02 |
 | *Pelvis* | 0.025 | 0.03 |
