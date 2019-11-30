@@ -38,7 +38,7 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 
 ### Body Part Coverage
 - These edits will cause pawns to be mostly shot in the torso, which means more organ damage, which means more bleeding and pain, which means they're more likely to be incapacitated or die from bleeding out.
-- Body parts in bold are the parent parts of those beneath them. Likewise, the dashes demonstrate levels of inheritance.
+- Body parts in bold are the parent parts of those beneath them. Likewise, the dashes demonstrate levels of children.
 
 | **Body Part** | **Vanilla Coverage** | **DPO Coverage** |
 | ------------- | :-------------: | :-------------: |
