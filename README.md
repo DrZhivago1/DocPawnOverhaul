@@ -29,7 +29,7 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 - This will cause pawns to be mostly shot in the torso, which means more organ damage, which means more bleeding and pain, which means they're more likely to be incapacitated or die from bleeding out.
 - Body Parts in bold are the parent parts of those beneath them.
 
-| **Body Part | Vanilla Coverage | DPO Coverage** |
+| ###### Body Part | ###### Vanilla Coverage | ###### DPO Coverage |
 | ------------- | :-------------: | :-------------: |
 | Torso | 0.036 | 0.06 |
 | *Sternum* | 0.015 | 0.02 |
