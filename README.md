@@ -6,6 +6,7 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 
 
 **Adds pain associated with bloodloss.**
+- This is a percentage, so 0.1=10% pain.
 
 | Blood Loss | Vanilla | DPO |
 | ------------- | :-------------: | :-------------: |
