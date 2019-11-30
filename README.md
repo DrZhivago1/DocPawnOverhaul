@@ -77,3 +77,11 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 | -Tibia | 0.1 | - |
 | -Foot | 0.1 | 0.07 |
 | --Toe | 0.06 | 0.01 |
+
+### Local Injuries
+
+| Injury | Value | Vanilla | DPO |
+| :------------- | :-------------: | :-------------: | :-------------: |
+| ------------- | ------------- | ------------- |
+| MissingBodyPart | painPerSeverity | X | X |
+| "" | bleedRate | X | X |
