@@ -15,6 +15,7 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 | Extreme | - | 0.5 |
 
 **Adds a bleedrate to organs.**
+- This is a percentage, so 2=200% bleedrate.
 
 | Organ | Vanilla Bleedrate | DPO Bleedrate |
 | ------------- | :-------------: | :-------------: |
