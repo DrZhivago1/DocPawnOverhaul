@@ -8,13 +8,13 @@
             <li Class="PatchOperationReplace">
                 <xpath>Defs/BodyDef[defName="Human"]/corePart/parts//li[def="Ribcage"]/coverage</xpath>
                 <value>
-                    <coverage>0.06</coverage>
+                    <coverage>0.2</coverage>
                 </value>
             </li>
             <li Class="PatchOperationReplace">
                 <xpath>Defs/BodyDef[defName="Human"]/corePart/parts//li[def="Sternum"]/coverage</xpath>
                 <value>
-                    <coverage>0.02</coverage>
+                    <coverage>0.05</coverage>
                 </value>
             </li>
             <li Class="PatchOperationReplace">
@@ -52,7 +52,7 @@
             <li Class="PatchOperationReplace">
                 <xpath>Defs/BodyDef[defName="Human"]/corePart/parts//li[def="Neck"]/coverage</xpath>
                 <value>
-                    <coverage>0.03</coverage>
+                    <coverage>0.05</coverage>
                 </value>
             </li>
             <li Class="PatchOperationReplace">
@@ -81,6 +81,12 @@
             </li>
             <!--Limbs-->
             <li Class="PatchOperationReplace">
+                <xpath>Defs/BodyDef[defName="Human"]/corePart/parts//li[def="Shoulder"]/coverage</xpath>
+                <value>
+                    <coverage>0.1</coverage>
+                </value>
+            </li>
+            <li Class="PatchOperationReplace">
                 <xpath>Defs/BodyDef[defName="Human"]/corePart/parts//li[def="Arm"]/coverage</xpath>
                 <value>
                     <coverage>0.3</coverage>
@@ -96,6 +102,12 @@
                 <xpath>Defs/BodyDef[defName="Human"]/corePart/parts//li[def="Finger"]/coverage</xpath>
                 <value>
                     <coverage>0.01</coverage>
+                </value>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/BodyDef[defName="Human"]/corePart/parts//li[def="Leg"]/coverage</xpath>
+                <value>
+                    <coverage>0.15</coverage>
                 </value>
             </li>
             <li Class="PatchOperationReplace">
