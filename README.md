@@ -24,14 +24,14 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 | **Organ** | **Vanilla Bleedrate** | **DPO Bleedrate** |
 | ------------- | :-------------: | :-------------: |
 | ------------- | ------------- | ------------- |
-|Lung|-|2|
-|Kidney|-|2|
-|Liver|-|2|
-|Stomach|-|2|
+| Lung | - | 2 |
+| Kidney | - | 2 |
+| Liver | - | 2 |
+| Stomach | - | 2 |
 
-### Bodypart Coverage
+### Body Part Coverage
 - These edits will cause pawns to be mostly shot in the torso, which means more organ damage, which means more bleeding and pain, which means they're more likely to be incapacitated or die from bleeding out.
-- Body Parts in bold are the parent parts of those beneath them. Likewise, the dashes demonstrate levels of inheritance.
+- Body parts in bold are the parent parts of those beneath them. Likewise, the dashes demonstrate levels of inheritance.
 
 | **Body Part** | **Vanilla Coverage** | **DPO Coverage** |
 | ------------- | :-------------: | :-------------: |
