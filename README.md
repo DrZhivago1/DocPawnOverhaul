@@ -3,16 +3,16 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 
 
 Adds pain associated with bloodloss.
-|Blood Loss|Vanilla Values|DocPawnOverhaul|
-|-----|-----|-----|
-Minor|-|0.1|
-Moderate|-|0.25|
-Severe|-|0.35|
-Extreme|-|0.5|
+| Blood Loss | Vanilla Values | DocPawnOverhaul |
+| ------------- | ------------- | ------------- |
+| Minor | - | 0.1 |
+| Moderate | - | 0.25 |
+| Severe | - | 0.35 |
+| Extreme | - | 0.5 |
 
 Adds a bleedrate to organs.
-|Organ|Vanilla Organ Bleedrate|DocPawnOverhaul Organ Bleedrate|
-|-----|-----|-----|
+| Organ | Vanilla Organ Bleedrate | DocPawnOverhaul Organ Bleedrate |
+| ------------- | ------------- | ------------- |
 |Lung|-|2|
 |Kidney|-|2|
 |Liver|-|2|
