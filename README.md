@@ -9,8 +9,9 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 - When pawns lose a lot of blood, they get a bloodloss hediff. These values associate pain at varying degrees of bloodloss.
 - This is a percentage, so 0.1=10% pain.
 
-| **Blood Loss | Vanilla | DPO** |
+| **Blood Loss** | **Vanilla** | **DPO** |
 | ------------- | :-------------: | :-------------: |
+| ------------- | ------------- | ------------- |
 | Minor | - | 0.1 |
 | Moderate | - | 0.25 |
 | Severe | - | 0.35 |
@@ -20,8 +21,9 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 - Organs will now bleed severely when they are damaged.
 - This is a percentage, so 2=200% bleedrate.
 
-| **Organ | Vanilla Bleedrate | DPO Bleedrate** |
+| **Organ** | **Vanilla Bleedrate** | **DPO Bleedrate** |
 | ------------- | :-------------: | :-------------: |
+| ------------- | ------------- | ------------- |
 |Lung|-|2|
 |Kidney|-|2|
 |Liver|-|2|
@@ -31,7 +33,7 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 - These edits will cause pawns to be mostly shot in the torso, which means more organ damage, which means more bleeding and pain, which means they're more likely to be incapacitated or die from bleeding out.
 - Body Parts in bold are the parent parts of those beneath them.
 
-| Body Part | Vanilla Coverage | DPO Coverage |
+| **Body Part** | **Vanilla Coverage** | **DPO Coverage** |
 | ------------- | :-------------: | :-------------: |
 | ------------- | ------------- | ------------- |
 | **Torso** | 0.036 | 0.06 |
