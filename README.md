@@ -80,7 +80,7 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 
 ### Local Injuries
 
-| Injury | Value | Vanilla | DPO |
+| **Injury** | **Value** | **Vanilla** | **DPO** |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | ------------- | ------------- | ------------- | ------------- |
 | MissingBodyPart | painPerSeverity | X | X |
