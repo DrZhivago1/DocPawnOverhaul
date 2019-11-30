@@ -8,6 +8,7 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 - Pawns are more likely to be shot in the torso
 - Organs are critical wounds and more likely to be hit
 - Medical aid will be more necessary in the field
+- Bionics and Armor become far more important
 - Completely save-friendly to add or remove as you wish
 
 
