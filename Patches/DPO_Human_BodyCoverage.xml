@@ -99,6 +99,12 @@
                 </value>
             </li>
             <li Class="PatchOperationReplace">
+                <xpath>Defs/BodyDef[defName="Human"]/corePart/parts//li[def="Foot"]/coverage</xpath>
+                <value>
+                    <coverage>0.07</coverage>
+                </value>
+            </li>
+            <li Class="PatchOperationReplace">
                 <xpath>Defs/BodyDef[defName="Human"]/corePart/parts//li[def="Toe"]/coverage</xpath>
                 <value>
                     <coverage>0.01</coverage>
