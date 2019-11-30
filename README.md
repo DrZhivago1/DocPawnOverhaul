@@ -18,7 +18,7 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 - This is a percentage, so 0.1=10% pain.
 
 | **Blood Loss** | **Vanilla** | **DPO** |
-| ------------- | :-------------: | :-------------: |
+| :-------------: | :-------------: | :-------------: |
 | ------------- | ------------- | ------------- |
 | Minor | - | 0.1 |
 | Moderate | - | 0.25 |
@@ -30,7 +30,7 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 - This is a percentage, so 2=200% bleedrate.
 
 | **Organ** | **Vanilla Bleedrate** | **DPO Bleedrate** |
-| ------------- | :-------------: | :-------------: |
+| :-------------: | :-------------: | :-------------: |
 | ------------- | ------------- | ------------- |
 | Lung | - | 2 |
 | Kidney | - | 2 |
@@ -44,7 +44,7 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 
 
 | **Body Part** | **Vanilla Coverage** | **DPO Coverage** |
-| ------------- | :-------------: | :-------------: |
+| :-------------: | :-------------: | :-------------: |
 | ------------- | ------------- | ------------- |
 | **Torso** | - | - |
 | Ribcage | 0.036 | 0.2 |
@@ -81,7 +81,7 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 ### Local Injuries
 
 | Injury | Value | Vanilla | DPO |
-| :------------- | :-------------: | :-------------: | :-------------: |
-| ------------- | ------------- | ------------- |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| ------------- | ------------- | ------------- | ------------- |
 | MissingBodyPart | painPerSeverity | X | X |
 | "" | bleedRate | X | X |
