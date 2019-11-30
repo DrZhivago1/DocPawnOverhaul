@@ -49,10 +49,10 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 | -Head | 0.80 | - |
 | --Skull | 0.18 | - |
 | ---Brain | 0.8 | - |
-| -Eye | 0.07 | 0.05 |
-| -Ear | 0.07 | 0.05 |
-| -Nose | 0.10 | 0.07 |
-| -Jaw | 0.15 | 0.1 |
+| --Eye | 0.07 | 0.05 |
+| --Ear | 0.07 | 0.05 |
+| --Nose | 0.10 | 0.07 |
+| --Jaw | 0.15 | 0.1 |
 | **Shoulder** | 0.12 | - |
 | -Clavicle | 0.09 | - |
 | -Arm | 0.77 | 0.3 |
