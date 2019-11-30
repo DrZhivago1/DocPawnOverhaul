@@ -5,7 +5,7 @@
 The goal of this mod is to make pawns feel damage. This mod increases pain and bleeding rates to Human pawns. This means pawns will be less spongey and will bleed out faster. Medical aid will be more necessary in the field.
 
 
-**Adds pain associated with bloodloss.**
+### Bloodloss Pain
 - This is a percentage, so 0.1=10% pain.
 
 | **Blood Loss | Vanilla | DPO** |
@@ -15,7 +15,7 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 | Severe | - | 0.35 |
 | Extreme | - | 0.5 |
 
-**Adds a bleedrate to organs.**
+### Organ Bleedrate
 - This is a percentage, so 2=200% bleedrate.
 
 | **Organ | Vanilla Bleedrate | DPO Bleedrate** |
@@ -25,7 +25,7 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 |Liver|-|2|
 |Stomach|-|2|
 
-**Changes body part coverage.**
+### Bodypart Coverage
 - This will cause pawns to be mostly shot in the torso, which means more organ damage, which means more bleeding and pain, which means they're more likely to be incapacitated or die from bleeding out.
 - Body Parts in bold are the parent parts of those beneath them.
 
