@@ -6,6 +6,7 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 
 
 ### Bloodloss Pain
+- When pawns lose a lot of blood, they get a bloodloss hediff. These values associate pain at varying degrees of bloodloss.
 - This is a percentage, so 0.1=10% pain.
 
 | **Blood Loss | Vanilla | DPO** |
@@ -16,6 +17,7 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 | Extreme | - | 0.5 |
 
 ### Organ Bleedrate
+- Organs will now bleed severely when they are damaged.
 - This is a percentage, so 2=200% bleedrate.
 
 | **Organ | Vanilla Bleedrate | DPO Bleedrate** |
@@ -26,7 +28,7 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 |Stomach|-|2|
 
 ### Bodypart Coverage
-- This will cause pawns to be mostly shot in the torso, which means more organ damage, which means more bleeding and pain, which means they're more likely to be incapacitated or die from bleeding out.
+- These edits will cause pawns to be mostly shot in the torso, which means more organ damage, which means more bleeding and pain, which means they're more likely to be incapacitated or die from bleeding out.
 - Body Parts in bold are the parent parts of those beneath them.
 
 | Body Part | Vanilla Coverage | DPO Coverage |
@@ -42,23 +44,23 @@ The goal of this mod is to make pawns feel damage. This mod increases pain and b
 | -Kidney | 0.017 | 0.02 |
 | -Liver | 0.025 | 0.04 |
 | **Neck** | 0.075 | 0.03 |
-| *Head* | 0.80 | - |
-| *Skull* | 0.18 | - |
-| *Brain* | 0.8 | - |
-| *Eye* | 0.07 | 0.05 |
-| *Ear* | 0.07 | 0.05 |
-| *Nose* | 0.10 | 0.07 |
-| *Jaw* | 0.15 | 0.1 |
+| -Head | 0.80 | - |
+| -Skull | 0.18 | - |
+| -Brain | 0.8 | - |
+| -Eye | 0.07 | 0.05 |
+| -Ear | 0.07 | 0.05 |
+| -Nose | 0.10 | 0.07 |
+| -Jaw | 0.15 | 0.1 |
 | **Shoulder** | 0.12 | - |
-| *Clavicle* | 0.09 | - |
-| *Arm* | 0.77 | 0.3 |
-| *Humerus* | 0.1 | - |
-| *Radius* | 0.1 | - |
-| *Hand* | 0.14 | 0.07 |
-| *Finger* | 0.06 | 0.01 |
+| -Clavicle | 0.09 | - |
+| -Arm | 0.77 | 0.3 |
+| -Humerus | 0.1 | - |
+| -Radius | 0.1 | - |
+| -Hand | 0.14 | 0.07 |
+| -Finger | 0.06 | 0.01 |
 | **Waist** | - | - |
 | **Leg** | 0.14 | - |
-| *Femur* | 0.1 | - |
-| *Tibia* | 0.1 | - |
-| *Foot* | 0.1 | 0.07 |
-| *Toe* | 0.06 | 0.01 |
+| -Femur | 0.1 | - |
+| -Tibia | 0.1 | - |
+| -Foot | 0.1 | 0.07 |
+| -Toe | 0.06 | 0.01 |
