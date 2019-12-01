@@ -111,3 +111,23 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 |  | bleedRate | - | - |
 | Frostbite | painPerSeverity | 0.0125 | 0.0166 |
 |  | bleedRate | - | - |
+
+### Body Part Hitpoints
+
+| **Body Part** | **Vanilla** | **DPO** |
+| :-------------: | :-------------: | :-------------: |
+| ------------- | ------------- | ------------- |
+| Torso | 40 | 60 |
+| Shoulder | 30 | 40 |
+| Arm | 30 | 40 |
+| Hand | 20 | 30 |
+| Finger | 8 | 15 |
+| Waist | - | - |
+| Toe | 8 | 15 |
+| Clavicle | 25 | 35 |
+| Sternum | 20 | 35 |
+| Humerus | 25 | 35 |
+| Radius | 20 | 35 |
+| Pelvis | 25 | 35 |
+| Femur | 25 | 35 |
+| Tibia | 25 | 35 |

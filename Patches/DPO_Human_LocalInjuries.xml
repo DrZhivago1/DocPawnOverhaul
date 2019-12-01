@@ -8,34 +8,40 @@
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="MissingBodyPart"]/injuryProps/painPerSeverity</xpath>
                 <value>
-                    <painPerSeverity>0.0375</painPerSeverity>                    <!--Vanilla 0.0125-->
+                    <painPerSeverity>0.0375</painPerSeverity>
                 </value>
             </li>
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="MissingBodyPart"]/injuryProps/bleedRate</xpath>
                 <value>
-                    <bleedRate>0.15</bleedRate>                    <!--Vanilla 0.12-->
+                    <bleedRate>0.36</bleedRate>
                 </value>
             </li>
             <!--Misc Injury-->
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="Misc"]/injuryProps/painPerSeverity</xpath>
                 <value>
-                    <painPerSeverity>0.0166</painPerSeverity>
+                    <painPerSeverity>0.0250</painPerSeverity>
+                </value>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/HediffDef[defName="Misc"]/injuryProps/bleedRate</xpath>
+                <value>
+                    <bleedRate>0.12</bleedRate>
                 </value>
             </li>
             <!--Burn-->
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="Burn"]/injuryProps/painPerSeverity</xpath>
                 <value>
-                    <painPerSeverity>0.025</painPerSeverity>
+                    <painPerSeverity>0.0300</painPerSeverity>
                 </value>
             </li>
             <!--Crush-->
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="Crush"]/injuryProps/painPerSeverity</xpath>
                 <value>
-                    <painPerSeverity>0.0166</painPerSeverity>
+                    <painPerSeverity>0.0250</painPerSeverity>
                 </value>
             </li>
             <li Class="PatchOperationReplace">
@@ -55,54 +61,78 @@
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="Cut"]/injuryProps/painPerSeverity</xpath>
                 <value>
-                    <painPerSeverity>0.0166</painPerSeverity>
+                    <painPerSeverity>0.0250</painPerSeverity>
+                </value>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/HediffDef[defName="Cut"]/injuryProps/bleedRate</xpath>
+                <value>
+                    <bleedRate>0.12</bleedRate>
                 </value>
             </li>
             <!--SurgicalCut-->
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="SurgicalCut"]/injuryProps/painPerSeverity</xpath>
                 <value>
-                    <painPerSeverity>0.0166</painPerSeverity>
+                    <painPerSeverity>0.0250</painPerSeverity>
+                </value>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/HediffDef[defName="SurgicalCut"]/injuryProps/bleedRate</xpath>
+                <value>
+                    <bleedRate>0.12</bleedRate>
                 </value>
             </li>
             <!--Scratch-->
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="Scratch"]/injuryProps/painPerSeverity</xpath>
                 <value>
-                    <painPerSeverity>0.0125</painPerSeverity>
+                    <painPerSeverity>0.0250</painPerSeverity>
+                </value>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/HediffDef[defName="Scratch"]/injuryProps/bleedRate</xpath>
+                <value>
+                    <bleedRate>0.12</bleedRate>
                 </value>
             </li>
             <!--Bite-->
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="Bite"]/injuryProps/painPerSeverity</xpath>
                 <value>
-                    <painPerSeverity>0.0166</painPerSeverity>
+                    <painPerSeverity>0.0250</painPerSeverity>
+                </value>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/HediffDef[defName="Bite"]/injuryProps/bleedRate</xpath>
+                <value>
+                    <bleedRate>0.12</bleedRate>
                 </value>
             </li>
             <!--Stab-->
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="Stab"]/injuryProps/painPerSeverity</xpath>
                 <value>
-                    <painPerSeverity>0.0166</painPerSeverity>
+                    <painPerSeverity>0.0300</painPerSeverity>
                 </value>
             </li>
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="Stab"]/injuryProps/bleedRate</xpath>
                 <value>
-                    <bleedRate>0.07</bleedRate>
+                    <bleedRate>0.15</bleedRate>
                 </value>
             </li>
             <!--Gunshot-->
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="Gunshot"]/injuryProps/painPerSeverity</xpath>
                 <value>
-                    <painPerSeverity>0.0166</painPerSeverity>
+                    <painPerSeverity>0.0300</painPerSeverity>
                 </value>
             </li>
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="Gunshot"]/injuryProps/bleedRate</xpath>
                 <value>
-                    <bleedRate>0.07</bleedRate>
+                    <bleedRate>0.15</bleedRate>
                 </value>
             </li>
             <!--Shredded-->
@@ -115,14 +145,21 @@
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="Shredded"]/injuryProps/bleedRate</xpath>
                 <value>
-                    <bleedRate>0.08</bleedRate>
+                    <bleedRate>0.20</bleedRate>
+                </value>
+            </li>
+            <!--Bruise-->
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/HediffDef[defName="Bruise"]/injuryProps/painPerSeverity</xpath>
+                <value>
+                    <painPerSeverity>0.0250</painPerSeverity>
                 </value>
             </li>
             <!--Frostbite-->
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="Frostbite"]/injuryProps/painPerSeverity</xpath>
                 <value>
-                    <painPerSeverity>0.0166</painPerSeverity>
+                    <painPerSeverity>0.0300</painPerSeverity>
                 </value>
             </li>
         </operations>

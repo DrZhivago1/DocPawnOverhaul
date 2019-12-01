@@ -6,25 +6,25 @@
         <success>Always</success>
         <operations>
             <li Class="PatchOperationAdd">
-                <xpath>Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.15" and minSeverity&lt;"0.30"]</xpath>                <!--minor-->
+                <xpath>/Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.15" and minSeverity&lt;"0.30"]</xpath>                <!--minor-->
                 <value>
                     <painOffset>0.1</painOffset>
                 </value>
             </li>
             <li Class="PatchOperationAdd">
-                <xpath>Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.30" and minSeverity&lt;"0.45"]</xpath>                <!--moderate-->
+                <xpath>/Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.30" and minSeverity&lt;"0.45"]</xpath>                <!--moderate-->
                 <value>
                     <painOffset>0.25</painOffset>
                 </value>
             </li>
             <li Class="PatchOperationAdd">
-                <xpath>Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.45" and minSeverity&lt;"0.60"]</xpath>                <!--severe-->
+                <xpath>/Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.45" and minSeverity&lt;"0.60"]</xpath>                <!--severe-->
                 <value>
                     <painOffset>0.35</painOffset>
                 </value>
             </li>
             <li Class="PatchOperationAdd">
-                <xpath>Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.60"]</xpath>                <!--extreme-->
+                <xpath>/Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.60"]</xpath>                <!--extreme-->
                 <value>
                     <painOffset>0.5</painOffset>
                 </value>
@@ -37,25 +37,25 @@
         <success>Always</success>
         <operations>
             <li Class="PatchOperationAdd">
-                <xpath>Defs/BodyPartDef[defName="Lung"]</xpath>
+                <xpath>/Defs/BodyPartDef[defName="Lung"]</xpath>
                 <value>
                     <bleedRate>2</bleedRate>
                 </value>
             </li>
             <li Class="PatchOperationAdd">
-                <xpath>Defs/BodyPartDef[defName="Kidney"]</xpath>
+                <xpath>/Defs/BodyPartDef[defName="Kidney"]</xpath>
                 <value>
                     <bleedRate>2</bleedRate>
                 </value>
             </li>
             <li Class="PatchOperationAdd">
-                <xpath>Defs/BodyPartDef[defName="Liver"]</xpath>
+                <xpath>/Defs/BodyPartDef[defName="Liver"]</xpath>
                 <value>
                     <bleedRate>2</bleedRate>
                 </value>
             </li>
             <li Class="PatchOperationAdd">
-                <xpath>Defs/BodyPartDef[defName="Stomach"]</xpath>
+                <xpath>/Defs/BodyPartDef[defName="Stomach"]</xpath>
                 <value>
                     <bleedRate>2</bleedRate>
                 </value>
