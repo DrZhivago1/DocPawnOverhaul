@@ -44,7 +44,7 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 
 
 | **Body Part** | **Vanilla Coverage** | **DPO Coverage** |
-| :-------------: | :-------------: | :-------------: |
+| :------------- | :-------------: | :-------------: |
 | ------------- | ------------- | ------------- |
 | **Torso** | - | - |
 | Ribcage | 0.036 | 0.2 |
