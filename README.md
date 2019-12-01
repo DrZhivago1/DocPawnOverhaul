@@ -84,32 +84,32 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | ------------- | ------------- | ------------- | ------------- |
 | MissingBodyPart | painPerSeverity | 0.0125 | 0.0375 |
-|  | bleedRate | 0.12 | 0.15 |
-| Misc | painPerSeverity | 0.0125 | 0.0166 |
-|  | bleedRate | 0.06 | - |
-| Burn | painPerSeverity | 0.01875 | 0.025 |
+|  | bleedRate | 0.12 | 0.36 |
+| Misc | painPerSeverity | 0.0125 | 0.0250 |
+|  | bleedRate | 0.06 | 0.12 |
+| Burn | painPerSeverity | 0.01875 | 0.0300 |
 |  | bleedRate | - | - |
-| Crush | painPerSeverity | 0.0125 | 0.0166 |
+| Crush | painPerSeverity | 0.0125 | 0.0250 |
 |  | bleedRate | 0.01 | 0.02 |
 | Crack | painPerSeverity | 0.01 | 0.0125 |
 |  | bleedRate | - | - |
-| Cut | painPerSeverity | 0.0125 | 0.0166 |
-|  | bleedRate | 0.06 | - |
-| SurgicalCut | painPerSeverity | 0.0125 | 0.0166 |
-|  | bleedRate | 0.06 | - |
-| Scratch | painPerSeverity | 0.0125 | 0.0125 |
-|  | bleedRate | 0.06 | - |
-| Bite | painPerSeverity | 0.0125 | 0.0166 |
-|  | bleedRate | 0.06 | - |
-| Stab | painPerSeverity | 0.0125 | 0.0166 |
-|  | bleedRate | 0.06 | 0.07 |
-| Gunshot | painPerSeverity | 0.0125 | 0.0166 |
-|  | bleedRate | 0.06 | 0.07 |
+| Cut | painPerSeverity | 0.0125 | 0.0250 |
+|  | bleedRate | 0.06 | 0.12 |
+| SurgicalCut | painPerSeverity | 0.0125 | 0.0250 |
+|  | bleedRate | 0.06 | 0.12 |
+| Scratch | painPerSeverity | 0.0125 | 0.0250 |
+|  | bleedRate | 0.06 | 0.12 |
+| Bite | painPerSeverity | 0.0125 | 0.0250 |
+|  | bleedRate | 0.06 | 0.12 |
+| Stab | painPerSeverity | 0.0125 | 0.0300 |
+|  | bleedRate | 0.06 | 0.15 |
+| Gunshot | painPerSeverity | 0.0125 | 0.0300 |
+|  | bleedRate | 0.06 | 0.15 |
 | Shredded | painPerSeverity | 0.0125 | 0.0375 |
-|  | bleedRate | 0.06 | 0.08 |
-| Bruise | painPerSeverity | 0.0125 | - |
+|  | bleedRate | 0.06 | 0.20 |
+| Bruise | painPerSeverity | 0.0125 | 0.0250 |
 |  | bleedRate | - | - |
-| Frostbite | painPerSeverity | 0.0125 | 0.0166 |
+| Frostbite | painPerSeverity | 0.0125 | 0.0300 |
 |  | bleedRate | - | - |
 
 ### Body Part Hitpoints
