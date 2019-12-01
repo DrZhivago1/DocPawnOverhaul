@@ -47,7 +47,7 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 | :------------- | :-------------: | :-------------: |
 | ------------- | ------------- | ------------- |
 | **Torso** | - | - |
-| Ribcage | 0.036 | 0.2 |
+| Ribcage | 0.036 | 0.1 |
 | Sternum | 0.015 | 0.05 |
 | Pelvis | 0.025 | 0.03 |
 | Spine | 0.025 | - |
