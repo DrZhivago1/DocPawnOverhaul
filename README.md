@@ -85,42 +85,29 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 | ------------- | ------------- | ------------- | ------------- |
 | MissingBodyPart | painPerSeverity | 0.0125 | 0.0375 |
 | "" | bleedRate | 0.12 | 0.15 |
-
 | Misc | painPerSeverity | 0.0125 | 0.0166 |
 | "" | bleedRate | 0.06 | - |
-
 | Burn | painPerSeverity | 0.01875 | 0.025 |
 | "" | bleedRate | - | - |
-
 | Crush | painPerSeverity | 0.0125 | 0.0166 |
 | "" | bleedRate | 0.01 | 0.02 |
-
 | Crack | painPerSeverity | 0.01 | 0.0125 |
 | "" | bleedRate | - | - |
-
 | Cut | painPerSeverity | 0.0125 | 0.0166 |
 | "" | bleedRate | 0.06 | - |
-
 | SurgicalCut | painPerSeverity | 0.0125 | 0.0166 |
 | "" | bleedRate | 0.06 | - |
-
 | Scratch | painPerSeverity | 0.0125 | 0.0125 |
 | "" | bleedRate | 0.06 | - |
-
 | Bite | painPerSeverity | 0.0125 | 0.0166 |
 | "" | bleedRate | 0.06 | - |
-
 | Stab | painPerSeverity | 0.0125 | 0.0166 |
 | "" | bleedRate | 0.06 | 0.07 |
-
 | Gunshot | painPerSeverity | 0.0125 | 0.0166 |
 | "" | bleedRate | 0.06 | 0.07 |
-
 | Shredded | painPerSeverity | 0.0125 | 0.0375 |
 | "" | bleedRate | 0.06 | 0.08 |
-
 | Bruise | painPerSeverity | 0.0125 | - |
 | "" | bleedRate | - | - |
-
 | Frostbite | painPerSeverity | 0.0125 | 0.0166 |
 | "" | bleedRate | - | - |
