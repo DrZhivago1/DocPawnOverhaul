@@ -12,6 +12,10 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 - Bionics and Armor become far more important
 - Completely save-friendly to add or remove as you wish
 
+### Suggested Mods To Use With
+
+[Ammo](https://steamcommunity.com/sharedfiles/filedetails/?id=1892397131&searchtext=ammo)
+
 
 ### Bloodloss Pain
 - When pawns lose a lot of blood, they get a bloodloss hediff. These values associate pain at varying degrees of bloodloss.
