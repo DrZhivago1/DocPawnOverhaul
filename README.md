@@ -14,8 +14,10 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 
 ### Suggested Mods To Use With
 
-[Ammo](https://steamcommunity.com/sharedfiles/filedetails/?id=1892397131&searchtext=ammo)
-
+[Ammunition](https://steamcommunity.com/sharedfiles/filedetails/?id=1892397131)
+[Yayo's Combat](https://steamcommunity.com/sharedfiles/filedetails/?id=1747929243)
+[CustomDeathRandomness](https://steamcommunity.com/sharedfiles/filedetails/?id=1464742390)
+[Camouflage and Stealth](https://steamcommunity.com/sharedfiles/filedetails/?id=1925822368)
 
 ### Bloodloss Pain
 - When pawns lose a lot of blood, they get a bloodloss hediff. These values associate pain at varying degrees of bloodloss.
