@@ -17,7 +17,6 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 - [Ammunition](https://steamcommunity.com/sharedfiles/filedetails/?id=1892397131)
 - [Yayo's Combat](https://steamcommunity.com/sharedfiles/filedetails/?id=1747929243)
 - [CustomDeathRandomness](https://steamcommunity.com/sharedfiles/filedetails/?id=1464742390)
-- [Camouflage and Stealth](https://steamcommunity.com/sharedfiles/filedetails/?id=1925822368)
 - [Smart Medicine](https://steamcommunity.com/sharedfiles/filedetails/?id=1309994319)
 - [Field Medic](https://steamcommunity.com/sharedfiles/filedetails/?id=1541287769)
 
