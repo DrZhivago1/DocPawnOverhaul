@@ -2,7 +2,7 @@
 
 The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO](https://ludeon.com/forums/index.php?topic=30799.0) to overhaul the Vanilla combat in a mod-friendly way. The way in which this mod handles that are through these features:
 - Increase pain and bleeding rates to Human pawns from most damage types
-- Pawns are less spongey and bleed out faster
+- Pawns are less spongy and bleed out faster
 - Pawns are less likely to lose small limbs
 - Pawns are more likely to be shot in the torso
 - Organs are critical wounds and more likely to be hit
