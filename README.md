@@ -124,13 +124,13 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 | **Body Part** | **Vanilla** | **DPO** |
 | :-------------: | :-------------: | :-------------: |
 | ------------- | ------------- | ------------- |
-| Torso | 40 | 60 |
+| Torso | 40 | 50 |
 | Shoulder | 30 | 40 |
 | Arm | 30 | 40 |
-| Hand | 20 | 30 |
-| Finger | 8 | 15 |
+| Hand | 20 | 25 |
+| Finger | 8 | 10 |
 | Waist | - | - |
-| Toe | 8 | 15 |
+| Toe | 8 | 10 |
 | Clavicle | 25 | 35 |
 | Sternum | 20 | 35 |
 | Humerus | 25 | 35 |
