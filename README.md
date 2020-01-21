@@ -1,7 +1,5 @@
 # DocPawnOverhaul
 
-**WIP**
-
 The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO](https://ludeon.com/forums/index.php?topic=30799.0) to overhaul the Vanilla combat in a mod-friendly way. The way in which this mod handles that are through these features:
 - Increase pain and bleeding rates to Human pawns from most damage types
 - Pawns are less spongey and bleed out faster
