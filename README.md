@@ -49,7 +49,7 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 - Body parts in bold and italic are the parent parts of those without stylization beneath them. Likewise, the dashes demonstrate levels of children.
 
 
-| **Body Part** | **Vanilla Coverage** | **DPO Coverage** |
+| **Body Part** | **Vanilla** | **DPO** |
 | :------------- | :-------------: | :-------------: |
 | ------------- | ------------- | ------------- |
 | **Torso** | - | - |
