@@ -35,7 +35,7 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 - Organs will now bleed severely when they are damaged.
 - This is a percentage, so 2=200% bleedrate.
 
-| **Organ** | **Vanilla Bleedrate** | **DPO Bleedrate** |
+| **Organ** | **Vanilla** | **DPO** |
 | :-------------: | :-------------: | :-------------: |
 | ------------- | ------------- | ------------- |
 | Lung | - | 2 |
