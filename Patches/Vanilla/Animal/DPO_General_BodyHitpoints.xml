@@ -1,6 +1,6 @@
 <Patch>
 
-    <!--=== Vanilla Human pawns are now tougher to kill ===-->
+    <!--=== Vanilla Animal pawns are now tougher to kill ===-->
     <Operation Class="PatchOperationSequence">
         <success>Always</success>
         <operations>
