@@ -19,6 +19,9 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 - [Smart Medicine](https://steamcommunity.com/sharedfiles/filedetails/?id=1309994319)
 - [Field Medic](https://steamcommunity.com/sharedfiles/filedetails/?id=1541287769)
 
+### Compare Vanilla vs DPO
+https://imgur.com/i259viP
+
 ### Bloodloss Pain
 - When pawns lose a lot of blood, they get a bloodloss hediff. These values associate pain at varying degrees of bloodloss.
 - This is a percentage, so 0.1=10% pain.
