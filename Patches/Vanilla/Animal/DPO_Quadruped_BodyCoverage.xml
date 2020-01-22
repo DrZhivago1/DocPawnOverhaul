@@ -1,6 +1,6 @@
 <Patch>
 
-    <!--=== Modify coverage of Vanilla Human bodyparts. Goal is to make Torso more often the target.===-->
+    <!--=== Modify coverage of Vanilla Animal bodyparts. Goal is to make Torso more often the target.===-->
     <Operation Class="PatchOperationSequence">
         <success>Always</success>
         <operations>
