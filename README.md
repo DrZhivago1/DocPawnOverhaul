@@ -11,16 +11,18 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 - Bionics and Armor become far more important
 - Completely save-friendly to add or remove as you wish
 
-### Suggested Mods To Use With
-
-- [Ammunition](https://steamcommunity.com/sharedfiles/filedetails/?id=1892397131)
-- [Yayo's Combat](https://steamcommunity.com/sharedfiles/filedetails/?id=1747929243)
-- [CustomDeathRandomness](https://steamcommunity.com/sharedfiles/filedetails/?id=1464742390)
-- [Smart Medicine](https://steamcommunity.com/sharedfiles/filedetails/?id=1309994319)
-- [Field Medic](https://steamcommunity.com/sharedfiles/filedetails/?id=1541287769)
+This mod only effects races using Vanilla bodies (Humans and Animals). Additional patches will be added in time for other races as needed. Feel free to leave a suggestion on races that may need patching.
 
 ### Compare Vanilla vs DPO
 https://imgur.com/i259viP
+
+### Suggested Mods To Use With
+- [Ammunition](https://steamcommunity.com/sharedfiles/filedetails/?id=1892397131)
+- [CustomDeathRandomness](https://steamcommunity.com/sharedfiles/filedetails/?id=1464742390)
+- [Death Rattle](https://steamcommunity.com/sharedfiles/filedetails/?id=1552452572)
+- [Field Medic](https://steamcommunity.com/sharedfiles/filedetails/?id=1541287769)
+- [Smart Medicine](https://steamcommunity.com/sharedfiles/filedetails/?id=1309994319)
+- [Yayo's Combat](https://steamcommunity.com/sharedfiles/filedetails/?id=1747929243)
 
 ### Bloodloss Pain
 - When pawns lose a lot of blood, they get a bloodloss hediff. These values associate pain at varying degrees of bloodloss.
