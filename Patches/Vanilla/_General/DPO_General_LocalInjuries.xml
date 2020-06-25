@@ -61,7 +61,7 @@
             <li Class="PatchOperationReplace">
                 <xpath>/Defs/HediffDef[defName="Cut"]/injuryProps/painPerSeverity</xpath>
                 <value>
-                    <painPerSeverity>0.0200</painPerSeverity>
+                    <painPerSeverity>0.0225</painPerSeverity>
                 </value>
             </li>
             <li Class="PatchOperationReplace">
