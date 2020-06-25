@@ -120,7 +120,7 @@ https://imgur.com/i259viP
 |  | bleedRate | 0.06 | 0.20 |
 | Bruise | painPerSeverity | 0.0125 | 0.0150 |
 |  | bleedRate | - | - |
-| Frostbite | painPerSeverity | 0.0125 | 0.0300 |
+| Frostbite | painPerSeverity | 0.0125 | 0.0200 |
 |  | bleedRate | - | - |
 
 ### Body Part Hitpoints
