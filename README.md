@@ -94,31 +94,31 @@ https://imgur.com/i259viP
 | **Injury** | **Value** | **Vanilla** | **DPO** |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | ------------- | ------------- | ------------- | ------------- |
-| MissingBodyPart | painPerSeverity | 0.0125 | 0.0375 |
+| MissingBodyPart | painPerSeverity | 0.0125 | 0.0300 |
 |  | bleedRate | 0.12 | 0.36 |
-| Misc | painPerSeverity | 0.0125 | 0.0250 |
+| Misc | painPerSeverity | 0.0125 | 0.0200 |
 |  | bleedRate | 0.06 | 0.12 |
-| Burn | painPerSeverity | 0.01875 | 0.0300 |
+| Burn | painPerSeverity | 0.01875 | 0.0250 |
 |  | bleedRate | - | - |
-| Crush | painPerSeverity | 0.0125 | 0.0250 |
+| Crush | painPerSeverity | 0.0125 | 0.0200 |
 |  | bleedRate | 0.01 | 0.02 |
-| Crack | painPerSeverity | 0.01 | 0.0125 |
+| Crack | painPerSeverity | 0.01 | 0.0100 |
 |  | bleedRate | - | - |
-| Cut | painPerSeverity | 0.0125 | 0.0250 |
+| Cut | painPerSeverity | 0.0125 | 0.0225 |
 |  | bleedRate | 0.06 | 0.12 |
-| SurgicalCut | painPerSeverity | 0.0125 | 0.0250 |
+| SurgicalCut | painPerSeverity | 0.0125 | 0.0150 |
 |  | bleedRate | 0.06 | 0.12 |
-| Scratch | painPerSeverity | 0.0125 | 0.0250 |
+| Scratch | painPerSeverity | 0.0125 | 0.0150 |
 |  | bleedRate | 0.06 | 0.12 |
-| Bite | painPerSeverity | 0.0125 | 0.0250 |
+| Bite | painPerSeverity | 0.0125 | 0.0200 |
 |  | bleedRate | 0.06 | 0.12 |
-| Stab | painPerSeverity | 0.0125 | 0.0300 |
+| Stab | painPerSeverity | 0.0125 | 0.0225 |
 |  | bleedRate | 0.06 | 0.15 |
-| Gunshot | painPerSeverity | 0.0125 | 0.0300 |
+| Gunshot | painPerSeverity | 0.0125 | 0.0225 |
 |  | bleedRate | 0.06 | 0.15 |
-| Shredded | painPerSeverity | 0.0125 | 0.0375 |
+| Shredded | painPerSeverity | 0.0125 | 0.0300 |
 |  | bleedRate | 0.06 | 0.20 |
-| Bruise | painPerSeverity | 0.0125 | 0.0250 |
+| Bruise | painPerSeverity | 0.0125 | 0.0150 |
 |  | bleedRate | - | - |
 | Frostbite | painPerSeverity | 0.0125 | 0.0300 |
 |  | bleedRate | - | - |
