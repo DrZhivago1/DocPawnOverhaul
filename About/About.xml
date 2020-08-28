@@ -6,12 +6,12 @@
 	<supportedVersions>
 		<li>1.0</li>
 		<li>1.1</li>
+		<li>1.2</li>
 	</supportedVersions>
 	<packageId>drzhivago.docpawnoverhaul</packageId>
 	<description>
 The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO](https://ludeon.com/forums/index.php?topic=30799.0) to overhaul the Vanilla combat in a mod-friendly way. The way in which this mod handles that are through these features:
-- Increase pain and bleeding rates to Human pawns from most damage types
-- Pawns are less spongy and bleed out faster
+- Increase pain and bleeding rates to Human pawns from most damage types (no more spongy flesh pawns)
 - Pawns are less likely to lose small limbs
 - Pawns are more likely to be shot in the torso
 - Organs are critical wounds and more likely to be hit
@@ -19,5 +19,7 @@ The goal of this mod is to make pawns feel damage. I found inspiration in [VE-CO
 - Animals are slightly more robust
 - Bionics and Armor become far more important
 - Completely save-friendly to add or remove as you wish
+
+All races are effected by the bleeding and pain changes. This mod also effects races using Vanilla bodies (Humans and Animals) by changing their bodypart hit chances.
 	</description>
 </ModMetaData>
