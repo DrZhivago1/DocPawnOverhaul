@@ -1,34 +1,38 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
 
-    <!--=== Add pain with pawn bloodloss ===-->
+    <!--=== Replace consciousness with pawn bloodloss ===-->
     <Operation Class="PatchOperationSequence">
         <success>Always</success>
         <operations>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.15" and minSeverity&lt;"0.30"]</xpath>                <!--minor-->
+            <!--minor-->
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.15" and minSeverity&lt;"0.30"]/capMods/li/offset</xpath>
                 <value>
-                    <painOffset>0.1</painOffset>
+                    <offset>-0.25</offset>
                 </value>
             </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.30" and minSeverity&lt;"0.45"]</xpath>                <!--moderate-->
+            <!--moderate-->
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.30" and minSeverity&lt;"0.45"]/capMods/li/offset</xpath>
                 <value>
-                    <painOffset>0.25</painOffset>
+                    <offset>-0.35</offset>
                 </value>
             </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.45" and minSeverity&lt;"0.60"]</xpath>                <!--severe-->
+            <!--severe-->
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.45" and minSeverity&lt;"0.60"]/capMods/li/offset</xpath>
                 <value>
-                    <painOffset>0.35</painOffset>
+                    <offset>-0.45</offset>
                 </value>
             </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.60"]</xpath>                <!--extreme-->
+            <!--extreme
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/HediffDef[defName="BloodLoss"]/stages/li[minSeverity>="0.60"]/capMods/li/offset</xpath>
                 <value>
-                    <painOffset>0.5</painOffset>
+                    <offset>-0.1</offset>
                 </value>
-            </li>
+            </li>-->
         </operations>
     </Operation>
 
